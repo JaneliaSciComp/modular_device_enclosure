@@ -1,1 +1,2 @@
-# serial_device
+enclosure_remote_device
+=======================
