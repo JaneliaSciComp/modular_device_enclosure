@@ -1,2 +1,2 @@
-enclosure_remote_device
-=======================
+modular_device_enclosure
+========================
