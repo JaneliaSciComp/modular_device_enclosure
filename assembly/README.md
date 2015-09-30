@@ -75,7 +75,7 @@ License:
 <img src="assembly_13.jpg" width="640">
 
 * Attach the pcbs to the enclosure bottom using the 4 1in 4-40 screws
-  and the 4 plastic washers.
+  and the 4 plastic washers using a 3/32in allen wrench.
 
 <img src="assembly_14.jpg" width="640">
 
@@ -108,12 +108,12 @@ License:
 <img src="assembly_21.jpg" width="640">
 
 * Use the 4 2-56 screws and the 4 plastic washers to attach the
-  display to the enclosure bottom.
+  display to the enclosure bottom using a 5/64in allen wrench.
 
 <img src="assembly_22.jpg" width="640">
 
 * Attach the enclosure top using the 4 1-1/2in 4-40 screws and the 4
-  metal washers
+  metal washers using a 3/32in allen wrench.
 
 <img src="assembly_23.jpg" width="640">
 
