@@ -25,14 +25,6 @@ $DIMLUNIT
  70
 2
   9
-$INSBASE
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  9
 $GRIDMODE
  70
 1
@@ -71,14 +63,6 @@ $LUPREC
  70
 4
   9
-$EXTMAX
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  9
 $DIMAUNIT
  70
 0
@@ -96,14 +80,6 @@ $PLIMMIN
 $LUNITS
  70
 2
-  9
-$EXTMIN
- 10
-0.0
- 20
-0.0
- 30
-0.0
   9
 $PLIMMAX
  10
@@ -1803,9 +1779,273 @@ ByLayer
   2
 FILLET
  10
-0.0
+50.0
  20
+40.0
+ 30
 0.0
+  0
+INSERT
+  5
+57
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+  2
+FILLET
+ 10
+150.0
+ 20
+40.0
+ 30
+0.0
+  0
+INSERT
+  5
+58
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+  2
+FILLET
+ 10
+250.0
+ 20
+40.0
+ 30
+0.0
+  0
+INSERT
+  5
+59
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+  2
+FILLET
+ 10
+50.0
+ 20
+110.0
+ 30
+0.0
+  0
+INSERT
+  5
+5A
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+  2
+FILLET
+ 10
+150.0
+ 20
+110.0
+ 30
+0.0
+  0
+INSERT
+  5
+5B
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+  2
+FILLET
+ 10
+250.0
+ 20
+110.0
+ 30
+0.0
+  0
+INSERT
+  5
+5C
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+  2
+FILLET
+ 10
+50.0
+ 20
+180.0
+ 30
+0.0
+  0
+INSERT
+  5
+5D
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+  2
+FILLET
+ 10
+150.0
+ 20
+180.0
+ 30
+0.0
+  0
+INSERT
+  5
+5E
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+  2
+FILLET
+ 10
+250.0
+ 20
+180.0
+ 30
+0.0
+  0
+INSERT
+  5
+5F
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+  2
+FILLET
+ 10
+50.0
+ 20
+250.0
+ 30
+0.0
+  0
+INSERT
+  5
+60
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+  2
+FILLET
+ 10
+150.0
+ 20
+250.0
+ 30
+0.0
+  0
+INSERT
+  5
+61
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+  2
+FILLET
+ 10
+250.0
+ 20
+250.0
  30
 0.0
   0
@@ -1847,7 +2087,7 @@ E
   3
 AcDbVariableDictionary
 350
-57
+62
   0
 DICTIONARY
   5
@@ -2311,7 +2551,7 @@ Layout2
   0
 DICTIONARY
   5
-57
+62
 100
 AcDbDictionary
 281
@@ -2319,15 +2559,15 @@ AcDbDictionary
   3
 DIMASSOC
 350
-59
+64
   3
 HIDETEXT
 350
-58
+63
   0
 DICTIONARYVAR
   5
-58
+63
 100
 DictionaryVariables
 280
@@ -2337,7 +2577,7 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-59
+64
 100
 DictionaryVariables
 280
