@@ -13,63 +13,9 @@ $HANDSEED
   5
 FFFF
   9
-$SPLINESEGS
- 70
-8
-  9
-$DIMEXE
- 40
-0.05
-  9
-$DIMLUNIT
- 70
-2
-  9
-$GRIDMODE
- 70
-1
-  9
-$INSUNITS
- 70
-4
-  9
-$DIMADEC
- 70
-2
-  9
 $DIMASZ
  40
 0.1
-  9
-$DIMGAP
- 40
-0.025
-  9
-$DIMTXT
- 40
-0.1
-  9
-$GRIDUNIT
- 10
-0.0
- 20
-0.0
-  9
-$DIMEXO
- 40
-0.025
-  9
-$LUPREC
- 70
-4
-  9
-$DIMAUNIT
- 70
-0
-  9
-$AUPREC
- 70
-2
   9
 $PLIMMIN
  10
@@ -77,23 +23,31 @@ $PLIMMIN
  20
 0.0
   9
-$LUNITS
- 70
-2
+$DIMEXE
+ 40
+0.05
+  9
+$DIMGAP
+ 40
+0.025
   9
 $PLIMMAX
  10
-210.0
+8.2677165354330722
  20
-297.0
+11.6929133858267722
   9
-$DIMSTYLE
-  2
-Standard
-  9
-$AUNITS
+$INSUNITS
  70
-0
+1
+  9
+$DIMEXO
+ 40
+0.025
+  9
+$DIMTXT
+ 40
+0.1
   0
 ENDSEC
   0
@@ -1779,19 +1733,25 @@ ByLayer
   2
 FILLET
  10
-50.0
+1.8999999999999999
  20
-40.0
+1.4000000000000004
  30
 0.0
+ 41
+0.03937
+ 42
+0.03937
+ 43
+1.0
   0
-INSERT
+CIRCLE
   5
 57
 100
 AcDbEntity
 100
-AcDbBlockReference
+AcDbCircle
   8
 0
  62
@@ -1800,14 +1760,14 @@ AcDbBlockReference
 -1
   6
 ByLayer
-  2
-FILLET
  10
-150.0
+2.1749999999999998
  20
-40.0
+1.4000000000000004
  30
 0.0
+ 40
+0.5
   0
 INSERT
   5
@@ -1827,19 +1787,25 @@ ByLayer
   2
 FILLET
  10
-250.0
+1.8999999999999999
  20
-40.0
+4.1000000000000005
  30
 0.0
+ 41
+0.03937
+ 42
+0.03937
+ 43
+1.0
   0
-INSERT
+CIRCLE
   5
 59
 100
 AcDbEntity
 100
-AcDbBlockReference
+AcDbCircle
   8
 0
  62
@@ -1848,14 +1814,14 @@ AcDbBlockReference
 -1
   6
 ByLayer
-  2
-FILLET
  10
-50.0
+2.1749999999999998
  20
-110.0
+4.1000000000000005
  30
 0.0
+ 40
+0.5
   0
 INSERT
   5
@@ -1875,19 +1841,25 @@ ByLayer
   2
 FILLET
  10
-150.0
+1.8999999999999999
  20
-110.0
+6.8000000000000007
  30
 0.0
+ 41
+0.03937
+ 42
+0.03937
+ 43
+1.0
   0
-INSERT
+CIRCLE
   5
 5B
 100
 AcDbEntity
 100
-AcDbBlockReference
+AcDbCircle
   8
 0
  62
@@ -1896,14 +1868,14 @@ AcDbBlockReference
 -1
   6
 ByLayer
-  2
-FILLET
  10
-250.0
+2.1749999999999998
  20
-110.0
+6.8000000000000007
  30
 0.0
+ 40
+0.5
   0
 INSERT
   5
@@ -1923,19 +1895,25 @@ ByLayer
   2
 FILLET
  10
-50.0
+1.8999999999999999
  20
-180.0
+9.5000000000000018
  30
 0.0
+ 41
+0.03937
+ 42
+0.03937
+ 43
+1.0
   0
-INSERT
+CIRCLE
   5
 5D
 100
 AcDbEntity
 100
-AcDbBlockReference
+AcDbCircle
   8
 0
  62
@@ -1944,14 +1922,14 @@ AcDbBlockReference
 -1
   6
 ByLayer
-  2
-FILLET
  10
-150.0
+2.1749999999999998
  20
-180.0
+9.5000000000000018
  30
 0.0
+ 40
+0.5
   0
 INSERT
   5
@@ -1971,19 +1949,25 @@ ByLayer
   2
 FILLET
  10
-250.0
+5.5999999999999996
  20
-180.0
+1.4000000000000004
  30
 0.0
+ 41
+0.03937
+ 42
+0.03937
+ 43
+1.0
   0
-INSERT
+CIRCLE
   5
 5F
 100
 AcDbEntity
 100
-AcDbBlockReference
+AcDbCircle
   8
 0
  62
@@ -1992,14 +1976,14 @@ AcDbBlockReference
 -1
   6
 ByLayer
-  2
-FILLET
  10
-50.0
+5.875
  20
-250.0
+1.4000000000000004
  30
 0.0
+ 40
+0.5
   0
 INSERT
   5
@@ -2019,15 +2003,45 @@ ByLayer
   2
 FILLET
  10
-150.0
+5.5999999999999996
  20
-250.0
+4.1000000000000005
  30
 0.0
+ 41
+0.03937
+ 42
+0.03937
+ 43
+1.0
+  0
+CIRCLE
+  5
+61
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+5.875
+ 20
+4.1000000000000005
+ 30
+0.0
+ 40
+0.5
   0
 INSERT
   5
-61
+62
 100
 AcDbEntity
 100
@@ -2043,11 +2057,311 @@ ByLayer
   2
 FILLET
  10
-250.0
+5.5999999999999996
  20
-250.0
+6.8000000000000007
  30
 0.0
+ 41
+0.03937
+ 42
+0.03937
+ 43
+1.0
+  0
+CIRCLE
+  5
+63
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+5.875
+ 20
+6.8000000000000007
+ 30
+0.0
+ 40
+0.5
+  0
+INSERT
+  5
+64
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+  2
+FILLET
+ 10
+5.5999999999999996
+ 20
+9.5000000000000018
+ 30
+0.0
+ 41
+0.03937
+ 42
+0.03937
+ 43
+1.0
+  0
+CIRCLE
+  5
+65
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+5.875
+ 20
+9.5000000000000018
+ 30
+0.0
+ 40
+0.5
+  0
+INSERT
+  5
+66
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+  2
+FILLET
+ 10
+9.3000000000000007
+ 20
+1.4000000000000004
+ 30
+0.0
+ 41
+0.03937
+ 42
+0.03937
+ 43
+1.0
+  0
+CIRCLE
+  5
+67
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+9.5749999999999993
+ 20
+1.4000000000000004
+ 30
+0.0
+ 40
+0.5
+  0
+INSERT
+  5
+68
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+  2
+FILLET
+ 10
+9.3000000000000007
+ 20
+4.1000000000000005
+ 30
+0.0
+ 41
+0.03937
+ 42
+0.03937
+ 43
+1.0
+  0
+CIRCLE
+  5
+69
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+9.5749999999999993
+ 20
+4.1000000000000005
+ 30
+0.0
+ 40
+0.5
+  0
+INSERT
+  5
+6A
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+  2
+FILLET
+ 10
+9.3000000000000007
+ 20
+6.8000000000000007
+ 30
+0.0
+ 41
+0.03937
+ 42
+0.03937
+ 43
+1.0
+  0
+CIRCLE
+  5
+6B
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+9.5749999999999993
+ 20
+6.8000000000000007
+ 30
+0.0
+ 40
+0.5
+  0
+INSERT
+  5
+6C
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+  2
+FILLET
+ 10
+9.3000000000000007
+ 20
+9.5000000000000018
+ 30
+0.0
+ 41
+0.03937
+ 42
+0.03937
+ 43
+1.0
+  0
+CIRCLE
+  5
+6D
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+9.5749999999999993
+ 20
+9.5000000000000018
+ 30
+0.0
+ 40
+0.5
   0
 ENDSEC
   0
@@ -2087,7 +2401,7 @@ E
   3
 AcDbVariableDictionary
 350
-62
+6E
   0
 DICTIONARY
   5
@@ -2551,7 +2865,7 @@ Layout2
   0
 DICTIONARY
   5
-62
+6E
 100
 AcDbDictionary
 281
@@ -2559,15 +2873,15 @@ AcDbDictionary
   3
 DIMASSOC
 350
-64
+70
   3
 HIDETEXT
 350
-63
+6F
   0
 DICTIONARYVAR
   5
-63
+6F
 100
 DictionaryVariables
 280
@@ -2577,7 +2891,7 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-64
+70
 100
 DictionaryVariables
 280

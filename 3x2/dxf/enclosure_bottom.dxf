@@ -25,6 +25,10 @@ $DIMLUNIT
  70
 2
   9
+$GRIDMODE
+ 70
+1
+  9
 $INSBASE
  10
 0.0
@@ -33,13 +37,9 @@ $INSBASE
  30
 0.0
   9
-$GRIDMODE
- 70
-1
-  9
 $INSUNITS
  70
-4
+1
   9
 $DIMADEC
  70
@@ -107,9 +107,9 @@ $EXTMIN
   9
 $PLIMMAX
  10
-210.0
+8.2677165354330722
  20
-297.0
+11.6929133858267722
   9
 $DIMSTYLE
   2
@@ -1808,6 +1808,36 @@ FILLET
 0.0
  30
 0.0
+ 41
+0.03937
+ 42
+0.03937
+ 43
+1.0
+  0
+CIRCLE
+  5
+57
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+0.275
+ 20
+-0.0
+ 30
+0.0
+ 40
+0.5
   0
 ENDSEC
   0
@@ -1847,7 +1877,7 @@ E
   3
 AcDbVariableDictionary
 350
-57
+58
   0
 DICTIONARY
   5
@@ -2311,7 +2341,7 @@ Layout2
   0
 DICTIONARY
   5
-57
+58
 100
 AcDbDictionary
 281
@@ -2319,15 +2349,15 @@ AcDbDictionary
   3
 DIMASSOC
 350
-59
+5A
   3
 HIDETEXT
 350
-58
+59
   0
 DICTIONARYVAR
   5
-58
+59
 100
 DictionaryVariables
 280
@@ -2337,7 +2367,7 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-59
+5A
 100
 DictionaryVariables
 280
