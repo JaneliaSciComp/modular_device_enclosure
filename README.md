@@ -8,6 +8,3 @@ License:
 
     BSD
 
-[Mega Assembly Instructions](./mega/assembly/README.md)
-
-[Teensy Assembly Instructions](./teensy/assembly/README.md)
