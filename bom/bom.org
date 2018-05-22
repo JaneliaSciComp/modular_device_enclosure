@@ -1,0 +1,13 @@
+* Bill of Materials
+#+RESULTS: enclosure-parts
+| Item | Quantity | PartNumber     | Vendor   | Description                                                                        |
+|------+----------+----------------+----------+------------------------------------------------------------------------------------|
+|    1 |        8 | 92196A108      | mcmaster | 18-8 Stainless Steel Socket Head Cap Screw 4-40 Thread 0.375 inch Length           |
+|    2 |        8 | 92196A302      | mcmaster | 18-8 Stainless Steel Socket Head Cap Screw 4-40 Thread 1.25 inch Length            |
+|    3 |        8 | 90295A340      | mcmaster | Nylon 6/6 General Purpose Flat Washer Number 4 Screw Size .21in OD .04-.06in Thick |
+|    4 |        8 | 94648A320      | mcmaster | 18-8 Stainless Steel Broach Style Captive Nut 4-40 Thread Size                     |
+|    5 |        1 | 8560K239       | mcmaster | Optically Clear Cast Acrylic Sheet 0.125 inch thick 12x12 inch                     |
+|    6 |        1 | 8560K257       | mcmaster | Optically Clear Cast Acrylic Sheet 0.125 inch thick 12x24 inch                     |
+|    7 |        2 | 492-1077-ND    | digikey  | ROUND SPACER #4 NYLON 7/16 inch                                                    |
+|    8 |        4 | A9CCA-0202F-ND | digikey  | FLEX CABLE - AFG02A/AF02/AFG02A                                                    |
+|    9 |        4 | A9CCA-0302F-ND | digikey  | FLEX CABLE - AFG03A/AF03/AFG03A                                                    |

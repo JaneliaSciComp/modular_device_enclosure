@@ -3,5 +3,98 @@
 #+EMAIL: peterpolidoro@gmail.com
 
 * Repository Information
+
+  - Name :: modular_device_enclosure
+  - License :: Open-Source Hardware
+  - URL :: https://github.com/janelia-modular-devices/modular_device_enclosure
   - Author :: Peter Polidoro
-  - License :: BSD
+  - Email :: peterpolidoro@gmail.com
+
+** Description
+
+   This repository contains the files for constructing enclosures for modular
+   devices.
+
+* Assembly Instructions
+
+  - Count modular devices of each form factor for a particular setup and choose
+    the appropriate dxf file.
+  - Choose appropriate size of 0.125 inch thick acrylic sheet and cut out dxf
+    file using a laser cutter.
+  - Press captive nuts into each of the small mounting holes.
+  - Insert one 0.375 inch cap screw into each hole on the modular device base
+    pcb marked with a white circle and screw a round threaded standoff onto the
+    other side.
+  - Align header pins of the top pcb with the sockets of the modular device base
+    and press the top pcb onto the base until it is firmly seated.
+  - On the 5x3 form factor modular devices, place one of the round unthreaded
+    spacers between the top pcb and the base pcb at the two mounting holes
+    furthest from the header pins.
+  - Place one nylon washer onto each of the 1.25 inch cap screws and insert one
+    of the screws with a washer into each of the mounting holes on the top pcb
+    marked with a white circle.
+  - Align the 1.25 inch cap screws with the captive nuts pressed into the
+    acrylic and screw each one in firmly, but not so tightly as to bend the
+    acrylic.
+
+* Bill of Materials
+
+** Enclosure Parts
+
+   [[file:./bom/bom.org]]
+
+** Supplemental Parts
+
+   [[file:./bom/supplemental_bom.org]]
+
+** Vendor Parts Lists
+
+   [[file:./bom/digikey_parts.org]]
+
+   [[file:./bom/mcmaster_parts.org]]
+
+* DXF Files
+
+** Single Modular Device
+
+*** 3x2 Form Factor
+
+    [[file:./3x2/dxf/enclosure_bottom.dxf]]
+
+*** 5x3 Form Factor
+
+    [[file:./5x3/dxf/enclosure_bottom.dxf]]
+
+** Multiple Modular Devices
+
+*** 3x2 Form Factor
+
+    [[file:./multiple/3x2x2.dxf]]
+
+    [[file:./multiple/3x2x3.dxf]]
+
+    [[file:./multiple/3x2x4.dxf]]
+
+*** 5x3 Form Factor
+
+    [[file:./multiple/5x3x2.dxf]]
+
+    [[file:./multiple/5x3x3.dxf]]
+
+    [[file:./multiple/5x3x4.dxf]]
+
+*** Both 3x2 and 5x3 Form Factors
+
+    [[file:./multiple/5x3x1_3x2x1.dxf]]
+
+    [[file:./multiple/5x3x1_3x2x2.dxf]]
+
+    [[file:./multiple/5x3x1_3x2x3.dxf]]
+
+    [[file:./multiple/5x3x1_3x2x4.dxf]]
+
+    [[file:./multiple/5x3x2_3x2x1.dxf]]
+
+    [[file:./multiple/5x3x2_3x2x2.dxf]]
+
+    [[file:./multiple/5x3x2_3x2x3.dxf]]

@@ -1,0 +1,8 @@
+* Supplemental Bill of Materials
+#+RESULTS: supplemental-parts
+| Item | Quantity | PartNumber | Vendor   | Description                             |
+|------+----------+------------+----------+-----------------------------------------|
+|    1 |        1 | 502PV-ND   | digikey  | HAND PRESS BENCH MOUNT                  |
+|    2 |        1 | 506PV-ND   | digikey  | HAND PRESS IDC CONVERSION KIT           |
+|    3 |        1 | 510PV-ND   | digikey  | BASE PLATE SOCKET IDC                   |
+|    4 |        1 | 6493A91    | mcmaster | Ultra-Gold Hex L-Keys 13-Piece Inch Set |
