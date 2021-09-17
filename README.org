@@ -1,6 +1,6 @@
 #+TITLE: modular_device_enclosure
 #+AUTHOR: Peter Polidoro
-#+EMAIL: peterpolidoro@gmail.com
+#+EMAIL: peter@polidoro.io
 
 * Repository Information
 
@@ -8,7 +8,7 @@
   - License :: Open-Source Hardware
   - URL :: https://github.com/janelia-modular-devices/modular_device_enclosure
   - Author :: Peter Polidoro
-  - Email :: peterpolidoro@gmail.com
+  - Email :: peter@polidoro.io
 
 ** Description
 
